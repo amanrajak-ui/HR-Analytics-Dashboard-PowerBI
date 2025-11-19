@@ -11,7 +11,6 @@
 </p>
 
 ---
-<img width="1920" height="1080" alt="Screenshot (154)" src="https://github.com/user-attachments/assets/155dc472-bc82-46c6-8096-8edda5ffa36d" />
 
 
 ## 🌟 **Overview**
@@ -22,6 +21,7 @@ All visuals are fully interactive and built using clean UI/UX techniques.
 
 
 ---
+<img width="1920" height="1080" alt="Screenshot (169)" src="https://github.com/user-attachments/assets/f11a2f62-8795-4829-9957-1c8a0dfb67eb" />
 
 ## 🔥 **Key Features**
 
